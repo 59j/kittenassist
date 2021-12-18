@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/59j/kittenassist/main/ezcrack.lua", true))()
+-- you need to execute this 2/3 times for it to work.
